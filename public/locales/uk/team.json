@@ -1,0 +1,42 @@
+{
+  "our_team": "Наша команда",
+  "meet_our_team": "Знайомтеся з нашими експертами",
+  "team_description": "Наша команда складається з висококваліфікованих професіоналів, які присвячують себе виконанню роботи на найвищому рівні. Дізнайтеся більше про ключових гравців, які приносять свій досвід у проєкти.",
+  "members": [
+    {
+      "name": "Девід Джеймс",
+      "role": "Frontend-розробник",
+      "skills": [
+        { "skill": "JavaScript", "icon": "FaJs", "color": "text-warning" },
+        { "skill": "React", "icon": "FaReact", "color": "text-info" },
+        { "skill": "Tailwind CSS", "icon": "SiTailwindcss", "color": "text-blue-400" }
+      ]
+    },
+    {
+      "name": "Сара Міллер",
+      "role": "Backend-розробник",
+      "skills": [
+        { "skill": "Python", "icon": "FaPython", "color": "text-success" },
+        { "skill": "Docker", "icon": "FaDocker", "color": "text-primary" },
+        { "skill": "C++", "icon": "SiCplusplus", "color": "text-info" }
+      ]
+    },
+    {
+      "name": "Алекс Браун",
+      "role": "DevOps-інженер",
+      "skills": [
+        { "skill": "Node.js", "icon": "FaNode", "color": "text-success" },
+        { "skill": "AWS", "icon": "FaAws", "color": "text-warning" }
+      ]
+    },
+    {
+      "name": "Джессіка Лі",
+      "role": "UI/UX-дизайнер",
+      "skills": [
+        { "skill": "Figma", "icon": "FaFigma", "color": "text-pink-500" },
+        { "skill": "SEO", "icon": "FaSearch", "color": "text-info" },
+        { "skill": "HTML5", "icon": "FaHtml5", "color": "text-orange-600" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "section_title": "Our Features",
+  "section_subtitle": "Empowering Your Digital Future",
+  "section_description": "At NinjaTech, we create solutions that strengthen your position in the digital world. Our technologies help you move forward, achieve more, and stay ahead of the competition.",
+  "features": [
+    {
+      "icon": "far fa-handshake",
+      "title": "Trusted Company",
+      "description": "NinjaTech is a reliable partner in the IT world. For over 5 years, we have been successfully helping our clients achieve better results by offering innovative solutions tailored to their needs. Your success is our mission."
+    },
+    {
+      "icon": "fa fa-dollar-sign",
+      "title": "Stability Guarantee",
+      "description": "Your systems will run smoothly. If any issues arise, we will resolve them immediately. NinjaTech ensures reliability at every stage."
+    },
+    {
+      "icon": "fa fa-bullseye",
+      "title": "Flexible Plans",
+      "description": "We understand that every client has unique needs. That’s why NinjaTech offers flexible pricing plans that can be adapted to your specific requirements and budget. We are ready to adjust to you."
+    },
+    {
+      "icon": "fa fa-headphones",
+      "title": "24/7 Support",
+      "description": "The NinjaTech team is always available to quickly resolve any issue you may have. We provide round-the-clock technical support to ensure your business operates without interruption."
+    }
+  ],
+  "learn_more": "Learn More"
+}

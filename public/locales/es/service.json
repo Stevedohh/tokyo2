@@ -1,0 +1,25 @@
+{
+  "portfolio": {
+    "section_title": "Nuestro Portafolio",
+    "section_subtitle": "Hemos Creado Soluciones Hermosas",
+    "section_description": "Echa un vistazo a algunos de nuestros trabajos recientes que demuestran nuestra experiencia y creatividad. Desde el diseño de sitios web hasta el desarrollo de aplicaciones, lo tenemos cubierto.",
+    "projects": [
+      {
+        "title": "Aplicaciones móviles",
+        "description": "Crea el futuro del sitio móvil: todas las tecnologías modernas a un clic.",
+        "video": "/assets/videos/13.mp4"
+      },
+      {
+        "title": "Nombre del Proyecto 2",
+        "description": "Una breve descripción del proyecto y su impacto.",
+        "video": "/assets/videos/12.mp4"
+      },
+      {
+        "title": "Nombre del Proyecto 3",
+        "description": "Una breve descripción del proyecto y su impacto.",
+        "video": "/assets/videos/11.mp4"
+      }
+    ],
+    "view_more": "Ver Más Proyectos"
+  }
+}

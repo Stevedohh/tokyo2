@@ -1,0 +1,46 @@
+{
+  "banner": {
+    "page": "Контакты",
+    "header": "Свяжитесь с нами"
+  },
+  "section": {
+    "title": "Свяжитесь с нами",
+    "subtitle": "Если у вас есть какие-либо комментарии, пожалуйста, свяжитесь с нами",
+    "form": {
+      "title": "Отправьте свое сообщение",
+      "fields": {
+        "userName": "Ваше имя",
+        "userEmail": "Ваш email",
+        "userPhone": "Ваш телефон",
+        "userProject": "Ваш проект",
+        "userSubject": "Тема",
+        "userMessage": "Сообщение"
+      },
+      "submit": "Отправить сообщение",
+      "success": "Ваше сообщение успешно отправлено!",
+      "error": "Что-то пошло не так. Пожалуйста, попробуйте еще раз."
+    },
+    "contact_info": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "title": "Адрес",
+        "content": "1 улица, Нью-Йорк, США"
+      },
+      {
+        "icon": "fas fa-envelope",
+        "title": "Напишите нам",
+        "content": "salesnintech@proton.me"
+      },
+      {
+        "icon": "fa fa-phone-alt",
+        "title": "Телефон",
+        "content": "(+012) 3456 7890"
+      },
+      {
+        "icon": "fab fa-firefox-browser",
+        "title": "Ваш сайт",
+        "content": "NinjaTech"
+      }
+    ]
+  }
+}

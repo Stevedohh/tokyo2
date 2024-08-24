@@ -1,0 +1,36 @@
+{
+  "slides": [
+    {
+      "title": "Welcome To NinjaTech",
+      "subtitle": "Your Security, Our Priority",
+      "description": "We provide the best solutions for your digital security needs.",
+      "video": "/assets/videos/7.mp4",
+      "buttons": [
+        {
+          "text": "Watch Video",
+          "link": "#"
+        },
+        {
+          "text": "Learn More",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "title": "Welcome To NinjaTech",
+      "subtitle": "Your Security, Our Priority",
+      "description": "We provide the best solutions for your digital security needs.",
+      "video": "/assets/videos/3.mp4",
+      "buttons": [
+        {
+          "text": "Watch Video",
+          "link": "#"
+        },
+        {
+          "text": "Learn More",
+          "link": "#"
+        }
+      ]
+    }
+  ]
+}

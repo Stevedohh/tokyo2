@@ -1,0 +1,52 @@
+{
+  "banner": {
+    "page": "About Us",
+    "header": "About Our Company"
+  },
+  "content": {
+    "title": "Experience and Professionalism in Website Creation",
+    "company": "Our Company",
+    "founded": "Founded in 2020",
+    "image_caption": "Experience and Professionalism",
+    "description_1": "Since its founding in 2020, our company has established itself as a leader in website creation. We have over 14 years of experience in web development, working with clients from various industries worldwide. Our specialists create websites that not only look impressive but also ensure high performance and user-friendliness.",
+    "why_choose_us": "Why Choose Us?",
+    "description_2": "Our clients choose us for the high quality of our services, attention to detail, and innovative approach. We offer a full range of services, from design and development to support and promotion of websites. We work with the most advanced technologies and continuously improve our skills to meet market demands.",
+    "quote": "\"Creating websites is an art, and we are artists in this field.\"",
+    "achievements": "Our Achievements",
+    "achievements_list": [
+      "Over 500 successfully completed projects.",
+      "Clients from more than 20 countries worldwide.",
+      "Winners of numerous industry awards in web development.",
+      "97% of clients remain satisfied and continue working with us."
+    ],
+    "case_studies": "Successful Project Case Studies",
+    "projects": [
+      {
+        "title": "Project: Development of an eCommerce Platform",
+        "task": "Task: Create a high-load eCommerce platform for an online store.",
+        "solution": "Solution: We developed a robust eCommerce platform with a responsive design and payment system integration.",
+        "result": "Result: A 50% increase in sales within the first three months after launch."
+      },
+      {
+        "title": "Project: Corporate Website for an International Company",
+        "task": "Task: Create a multilingual corporate website with CRM integration.",
+        "solution": "Solution: We developed a website with automatic localization functionality and integration with the client's CRM system.",
+        "result": "Result: A 35% increase in conversion rates and simplified client data management."
+      }
+    ],
+    "team": {
+      "title": "Our Team",
+      "description": "Our team consists of experienced developers, designers, and marketers, each of whom is a professional in their field. We work together to create projects that truly stand out from the competition."
+    },
+    "sidebar": {
+      "services_title": "Our Services",
+      "services_description": "We offer a full range of website creation services, including:",
+      "services_list": [
+        "Design and Development",
+        "SEO Optimization",
+        "Support and Maintenance",
+        "Content Management"
+      ]
+    }
+  }
+}

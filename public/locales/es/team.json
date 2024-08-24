@@ -1,0 +1,42 @@
+{
+  "our_team": "Nuestro Equipo",
+  "meet_our_team": "Conoce a los Miembros de Nuestro Equipo Experto",
+  "team_description": "Nuestro equipo está compuesto por profesionales altamente capacitados dedicados a entregar trabajo de la más alta calidad. Conoce a los jugadores clave que aportan su experiencia.",
+  "members": [
+    {
+      "name": "David James",
+      "role": "Desarrollador Frontend",
+      "skills": [
+        { "skill": "JavaScript", "icon": "FaJs", "color": "text-warning" },
+        { "skill": "React", "icon": "FaReact", "color": "text-info" },
+        { "skill": "Tailwind CSS", "icon": "SiTailwindcss", "color": "text-blue-400" }
+      ]
+    },
+    {
+      "name": "Sarah Miller",
+      "role": "Desarrolladora Backend",
+      "skills": [
+        { "skill": "Python", "icon": "FaPython", "color": "text-success" },
+        { "skill": "Docker", "icon": "FaDocker", "color": "text-primary" },
+        { "skill": "C++", "icon": "SiCplusplus", "color": "text-info" }
+      ]
+    },
+    {
+      "name": "Alex Brown",
+      "role": "Ingeniero DevOps",
+      "skills": [
+        { "skill": "Node.js", "icon": "FaNode", "color": "text-success" },
+        { "skill": "AWS", "icon": "FaAws", "color": "text-warning" }
+      ]
+    },
+    {
+      "name": "Jessica Lee",
+      "role": "Diseñadora UI/UX",
+      "skills": [
+        { "skill": "Figma", "icon": "FaFigma", "color": "text-pink-500" },
+        { "skill": "SEO", "icon": "FaSearch", "color": "text-info" },
+        { "skill": "HTML5", "icon": "FaHtml5", "color": "text-orange-600" }
+      ]
+    }
+  ]
+}

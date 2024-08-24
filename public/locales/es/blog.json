@@ -1,0 +1,58 @@
+{
+  "read_more": "Leer Más",
+  "priorities": {
+    "title": "Nuestras Prioridades",
+    "subtitle": "Resolver problemas de manera rápida y eficiente",
+    "items": [
+      {
+        "title": "Velocidad",
+        "description": "Nuestra prioridad es completar el proyecto rápidamente, pero al mismo tiempo prestar atención a la calidad del resultado final.",
+        "video": "/assets/videos/Animation_yellow-2_anubis.mp4"
+      },
+      {
+        "title": "Creatividad",
+        "description": "Una característica importante que seguimos en nuestro trabajo es aportar soluciones atípicas al proyecto.",
+        "video": "/assets/videos/Animation_red-2_anubis.mp4"
+      },
+      {
+        "title": "Razonabilidad",
+        "description": "No hay elementos aleatorios en nuestro diseño solo por estética. La idea principal es un diseño funcional que, ante todo, debe resolver el problema del usuario.",
+        "video": "/assets/videos/Animation_blue-2_anubis.mp4"
+      }
+    ]
+  },
+  "blog": {
+    "title": "Desde el Blog",
+    "subtitle": "Noticias y Actualizaciones",
+    "description": "Mantente al día con las últimas tendencias, ideas y noticias de la industria. Explora nuestro blog para conocer más sobre nuestro trabajo e innovaciones.",
+    "posts": [
+      {
+        "category": "Negocios",
+        "title": "Revolucionando el Desarrollo Web con Next.js",
+        "description": "Descubre cómo NinjaTech está aprovechando el poder de Next.js para crear aplicaciones web rápidas, receptivas y escalables que establecen nuevos estándares en la industria.",
+        "author": "John Doe",
+        "date": "15 Ago 2024",
+        "comments": "12 Comentarios",
+        "image": "/assets/img/125.png"
+      },
+      {
+        "category": "Gestión de Proyectos",
+        "title": "Gestión Ágil de Proyectos: El Enfoque de NinjaTech",
+        "description": "Aprende sobre nuestras estrategias de gestión ágil de proyectos que nos ayudan a entregar proyectos de alta calidad a tiempo y dentro del presupuesto, siempre.",
+        "author": "Sarah K.",
+        "date": "10 Jul 2024",
+        "comments": "8 Comentarios",
+        "image": "/assets/img/215.png"
+      },
+      {
+        "category": "SEO y Rendimiento",
+        "title": "Mejorando el Rendimiento de Sitios Web con Técnicas Avanzadas de SEO",
+        "description": "Descubre cómo las técnicas avanzadas de SEO y las optimizaciones de rendimiento de NinjaTech están ayudando a los clientes a lograr mejores clasificaciones y tiempos de carga más rápidos.",
+        "author": "Alex B.",
+        "date": "22 Jun 2024",
+        "comments": "5 Comentarios",
+        "image": "/assets/img/foto3.png"
+      }
+    ]
+  }
+}

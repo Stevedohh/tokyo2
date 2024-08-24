@@ -1,0 +1,58 @@
+{
+  "read_more": "Read More",
+  "priorities": {
+    "title": "Our Priorities",
+    "subtitle": "Solve Problems Quickly and Efficiently",
+    "items": [
+      {
+        "title": "Speed",
+        "description": "Our priority is to complete the project quickly while paying close attention to the quality of the final result.",
+        "video": "/assets/videos/Animation_yellow-2_anubis.mp4"
+      },
+      {
+        "title": "Creativity",
+        "description": "An important aspect we adhere to in our work is bringing atypical solutions to the project.",
+        "video": "/assets/videos/Animation_red-2_anubis.mp4"
+      },
+      {
+        "title": "Reasonableness",
+        "description": "There are no random elements in our design just for aesthetics. The main idea is a functional design that primarily solves the user's problem.",
+        "video": "/assets/videos/Animation_blue-2_anubis.mp4"
+      }
+    ]
+  },
+  "blog": {
+    "title": "From Blog",
+    "subtitle": "News And Updates",
+    "description": "Stay updated with the latest trends, insights, and news from the industry. Explore our blog to learn more about our work and innovations.",
+    "posts": [
+      {
+        "category": "Business",
+        "title": "Revolutionizing Web Development with Next.js",
+        "description": "Explore how NinjaTech is leveraging the power of Next.js to create fast, responsive, and scalable web applications that set new standards in the industry.",
+        "author": "John Doe",
+        "date": "15 Aug 2024",
+        "comments": "12 Comments",
+        "image": "/assets/img/125.png"
+      },
+      {
+        "category": "Project Management",
+        "title": "Agile Project Management: The NinjaTech Way",
+        "description": "Learn about our agile project management strategies that help us deliver high-quality projects on time and within budget, every time.",
+        "author": "Sarah K.",
+        "date": "10 Jul 2024",
+        "comments": "8 Comments",
+        "image": "/assets/img/215.png"
+      },
+      {
+        "category": "SEO & Performance",
+        "title": "Boosting Website Performance with Advanced SEO Techniques",
+        "description": "Discover how NinjaTech's advanced SEO techniques and performance optimizations are helping clients achieve better rankings and faster load times.",
+        "author": "Alex B.",
+        "date": "22 Jun 2024",
+        "comments": "5 Comments",
+        "image": "/assets/img/foto3.png"
+      }
+    ]
+  }
+}

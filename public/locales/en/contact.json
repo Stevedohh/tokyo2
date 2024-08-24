@@ -1,0 +1,46 @@
+{
+  "banner": {
+    "page": "Contact",
+    "header": "Contact Us"
+  },
+  "section": {
+    "title": "Contact Us",
+    "subtitle": "If you have any comments please apply now",
+    "form": {
+      "title": "Send Your Message",
+      "fields": {
+        "userName": "Your Name",
+        "userEmail": "Your Email",
+        "userPhone": "Your Phone",
+        "userProject": "Your Project",
+        "userSubject": "Subject",
+        "userMessage": "Message"
+      },
+      "submit": "Send Message",
+      "success": "Your message has been sent successfully!",
+      "error": "Something went wrong. Please try again."
+    },
+    "contact_info": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "title": "Address",
+        "content": "1 Street New York.USA"
+      },
+      {
+        "icon": "fas fa-envelope",
+        "title": "Mail Us",
+        "content": "salesnintech@proton.me"
+      },
+      {
+        "icon": "fa fa-phone-alt",
+        "title": "Telephone",
+        "content": "(+012) 3456 7890"
+      },
+      {
+        "icon": "fab fa-firefox-browser",
+        "title": "Yoursite@ex.com",
+        "content": "NinjaTech"
+      }
+    ]
+  }
+}

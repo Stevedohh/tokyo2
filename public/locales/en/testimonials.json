@@ -1,0 +1,22 @@
+{
+  "testimonials": [
+    {
+      "name": "John Doe",
+      "role": "CEO, Tech Innovations",
+      "rating": 5,
+      "feedback": "NinjaTech provided us with an incredible solution that significantly improved our internal processes. Working with them was an absolute pleasure!"
+    },
+    {
+      "name": "Jane Smith",
+      "role": "CTO, Creative Solutions",
+      "rating": 4,
+      "feedback": "The NinjaTech team demonstrated a high level of professionalism and attention to detail. We received a product that fully meets our expectations."
+    },
+    {
+      "name": "Michael Brown",
+      "role": "COO, NextGen Software",
+      "rating": 4,
+      "feedback": "NinjaTech developed a web application for us that significantly enhanced our customer interaction. I highly recommend this team!"
+    }
+  ]
+}

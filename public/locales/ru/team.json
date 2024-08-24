@@ -1,0 +1,42 @@
+{
+  "our_team": "Наша команда",
+  "meet_our_team": "Познакомьтесь с нашими экспертами",
+  "team_description": "Наша команда состоит из высококвалифицированных профессионалов, которые стремятся к выполнению работы на высшем уровне. Узнайте больше о ключевых специалистах, которые вносят свой вклад в наши проекты.",
+  "members": [
+    {
+      "name": "Дэвид Джеймс",
+      "role": "Frontend-разработчик",
+      "skills": [
+        { "skill": "JavaScript", "icon": "FaJs", "color": "text-warning" },
+        { "skill": "React", "icon": "FaReact", "color": "text-info" },
+        { "skill": "Tailwind CSS", "icon": "SiTailwindcss", "color": "text-blue-400" }
+      ]
+    },
+    {
+      "name": "Сара Миллер",
+      "role": "Backend-разработчик",
+      "skills": [
+        { "skill": "Python", "icon": "FaPython", "color": "text-success" },
+        { "skill": "Docker", "icon": "FaDocker", "color": "text-primary" },
+        { "skill": "C++", "icon": "SiCplusplus", "color": "text-info" }
+      ]
+    },
+    {
+      "name": "Алекс Браун",
+      "role": "DevOps-инженер",
+      "skills": [
+        { "skill": "Node.js", "icon": "FaNode", "color": "text-success" },
+        { "skill": "AWS", "icon": "FaAws", "color": "text-warning" }
+      ]
+    },
+    {
+      "name": "Джессика Ли",
+      "role": "UI/UX-дизайнер",
+      "skills": [
+        { "skill": "Figma", "icon": "FaFigma", "color": "text-pink-500" },
+        { "skill": "SEO", "icon": "FaSearch", "color": "text-info" },
+        { "skill": "HTML5", "icon": "FaHtml5", "color": "text-orange-600" }
+      ]
+    }
+  ]
+}

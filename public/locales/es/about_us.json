@@ -1,0 +1,52 @@
+{
+  "banner": {
+    "page": "Sobre Nosotros",
+    "header": "Sobre Nuestra Empresa"
+  },
+  "content": {
+    "title": "Experiencia y Profesionalismo en la Creación de Sitios Web",
+    "company": "Nuestra Empresa",
+    "founded": "Fundada en 2020",
+    "image_caption": "Experiencia y Profesionalismo",
+    "description_1": "Desde su fundación en 2020, nuestra empresa se ha consolidado como un líder en la creación de sitios web. Contamos con más de 14 años de experiencia en desarrollo web, trabajando con clientes de diversas industrias en todo el mundo. Nuestros especialistas crean sitios web que no solo lucen impresionantes, sino que también garantizan un alto rendimiento y facilidad de uso.",
+    "why_choose_us": "¿Por Qué Elegirnos?",
+    "description_2": "Nuestros clientes nos eligen por la alta calidad de nuestros servicios, la atención al detalle y nuestro enfoque innovador. Ofrecemos una gama completa de servicios, desde el diseño y desarrollo hasta el soporte y la promoción de sitios web. Trabajamos con las tecnologías más avanzadas y mejoramos continuamente nuestras habilidades para cumplir con las demandas del mercado.",
+    "quote": "\"Crear sitios web es un arte, y somos artistas en este campo.\"",
+    "achievements": "Nuestros Logros",
+    "achievements_list": [
+      "Más de 500 proyectos completados con éxito.",
+      "Clientes de más de 20 países en todo el mundo.",
+      "Ganadores de numerosos premios en la industria del desarrollo web.",
+      "El 97% de los clientes están satisfechos y continúan trabajando con nosotros."
+    ],
+    "case_studies": "Casos de Proyectos Exitosos",
+    "projects": [
+      {
+        "title": "Proyecto: Desarrollo de una Plataforma de eCommerce",
+        "task": "Tarea: Crear una plataforma de eCommerce de alta carga para una tienda en línea.",
+        "solution": "Solución: Desarrollamos una plataforma de eCommerce robusta con diseño adaptable e integración de sistemas de pago.",
+        "result": "Resultado: Aumento del 50% en las ventas durante los primeros tres meses después del lanzamiento."
+      },
+      {
+        "title": "Proyecto: Sitio Corporativo para una Empresa Internacional",
+        "task": "Tarea: Crear un sitio corporativo multilingüe con integración de CRM.",
+        "solution": "Solución: Desarrollamos un sitio con función de localización automática e integración con el sistema CRM del cliente.",
+        "result": "Resultado: Aumento del 35% en la tasa de conversión y simplificación de la gestión de datos de los clientes."
+      }
+    ],
+    "team": {
+      "title": "Nuestro Equipo",
+      "description": "Nuestro equipo está compuesto por desarrolladores, diseñadores y especialistas en marketing experimentados, cada uno de los cuales es un profesional en su campo. Trabajamos juntos para crear proyectos que realmente se destacan entre la competencia."
+    },
+    "sidebar": {
+      "services_title": "Nuestros Servicios",
+      "services_description": "Ofrecemos una gama completa de servicios de creación de sitios web, incluyendo:",
+      "services_list": [
+        "Diseño y Desarrollo",
+        "Optimización SEO",
+        "Soporte y Mantenimiento",
+        "Gestión de Contenidos"
+      ]
+    }
+  }
+}

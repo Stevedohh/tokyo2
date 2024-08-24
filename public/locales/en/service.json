@@ -1,0 +1,25 @@
+{
+  "portfolio": {
+    "section_title": "Our Portfolio",
+    "section_subtitle": "We've Created Beautiful Solutions",
+    "section_description": "Take a look at some of our recent work that demonstrates our expertise and creativity. From website design to app development, we've got it covered.",
+    "projects": [
+      {
+        "title": "Mobile Applications",
+        "description": "Create the future of mobile sites — all the latest technologies in one click.",
+        "video": "/assets/videos/13.mp4"
+      },
+      {
+        "title": "Project Name 2",
+        "description": "A brief description of the project and its impact.",
+        "video": "/assets/videos/12.mp4"
+      },
+      {
+        "title": "Project Name 3",
+        "description": "A brief description of the project and its impact.",
+        "video": "/assets/videos/11.mp4"
+      }
+    ],
+    "view_more": "View More Projects"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "company_name": "NinjaTech",
+  "company_description": "Компанія NinjaTech надає високоякісні IT-послуги, спрямовані на поліпшення бізнес-процесів.",
+  "useful_links": "Корисні посилання",
+  "about_us": "Про нас",
+  "services": "Послуги",
+  "contact_us": "Зв'язатися з нами",
+  "instagram": "Instagram",
+  "address": "Адреса",
+  "address_detail": "1 вулиця, Нью-Йорк, США",
+  "email": "Ел. пошта",
+  "email_detail": "salesnintech@proton.me",
+  "phone": "Телефон",
+  "phone_detail": "(+012) 3456 7890",
+  "newsletter": "Підписка на новини",
+  "newsletter_description": "Отримуйте свіжі новини та оновлення від NinjaTech...",
+  "newsletter_placeholder": "Ваш Email"
+}
