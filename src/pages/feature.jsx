@@ -6,7 +6,7 @@ import Features from './components/Features'
 
 export default  function feature() {
   // eslint-disable-next-line react-hooks/rules-of-hooks
-  const { t } = useTranslation('common');
+  const { t, ready } = useTranslation('common');
 
   return (
     <>

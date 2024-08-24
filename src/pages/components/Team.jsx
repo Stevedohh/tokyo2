@@ -1,9 +1,14 @@
 import { useTranslation } from "next-i18next";
+import React from "react";
 import { FaJs, FaReact, FaPython, FaDocker, FaNode, FaAws, FaFigma, FaSearch, FaHtml5 } from 'react-icons/fa';
 import { SiTailwindcss, SiCplusplus } from 'react-icons/si';
 
 export default function Team() {
-  const { t } = useTranslation('team');
+  const { t, ready } = useTranslation('team');
+
+  if (!ready) {
+    return
+  }
 
   const iconComponents = {
     FaJs: FaJs,

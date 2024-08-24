@@ -1,8 +1,13 @@
 import { useTranslation } from "next-i18next";
-import Link from "next/link"; // Импортируем Link из next/link
+import Link from "next/link";
+import React from "react"; // Импортируем Link из next/link
 
 export default function Service() {
-    const { t } = useTranslation('service');
+    const { t, ready } = useTranslation('service');
+
+  if (!ready) {
+    return
+  }
 
     return (
         <>

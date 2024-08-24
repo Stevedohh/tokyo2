@@ -1,6 +1,6 @@
 import { useTranslation } from "next-i18next";
 import Link from "next/link";
-import { useEffect } from "react";
+import React, { useEffect } from "react";
 import Script from "next/script";
 import "owl.carousel/dist/assets/owl.carousel.css";
 import "owl.carousel/dist/assets/owl.theme.default.css";
@@ -33,7 +33,11 @@ const loadCarousel = async () => {
 };
 
 const Slider = () => {
-  const { t } = useTranslation('slider');
+  const { t, ready } = useTranslation('slider');
+
+  if (!ready) {
+    return
+  }
 
   useEffect(() => {
     loadCarousel();

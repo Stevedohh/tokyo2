@@ -1,6 +1,4 @@
-import webpack from "webpack";
-
-export default {
+module.exports = {
     webpack: (config, { buildId, dev, isServer, defaultLoaders, webpack }) => {
         // Подключение jQuery глобально
         config.plugins.push(
@@ -31,7 +29,6 @@ export default {
     i18n: {
         locales: ['en', 'ru', 'uk', 'es'],
         defaultLocale: 'ru',
-        localeDetection: false,
     },
     env: {
         CUSTOM_VAR: 'my-custom-value',

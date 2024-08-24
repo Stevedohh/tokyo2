@@ -2,7 +2,11 @@ import { useTranslation } from "next-i18next";
 import React from 'react';
 
 export default function Features() {
-  const { t } = useTranslation('features');
+  const { t, ready } = useTranslation('features');
+
+  if (!ready) {
+    return
+  }
 
   return (
     <>

@@ -4,7 +4,11 @@ import Link from 'next/link'; // Импортируем компонент Link 
 import NewSection from './NewSection'; // Импорт нового компонента
 
 export default function About() {
-  const { t } = useTranslation('about');
+  const { t, ready } = useTranslation('about', { useSuspense: false });
+
+  if (!ready) {
+    return
+  }
 
   return (
       <>

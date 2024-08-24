@@ -2,7 +2,11 @@ import { useTranslation } from "next-i18next";
 import React from 'react';
 
 export default function FAQs() {
-  const { t } = useTranslation('faq');
+  const { t, ready } = useTranslation('faq');
+
+  if (!ready) {
+    return
+  }
 
   return (
     <>

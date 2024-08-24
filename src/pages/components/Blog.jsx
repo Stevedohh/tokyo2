@@ -1,8 +1,13 @@
 import { useTranslation } from "next-i18next";
 import Link from 'next/link';
+import React from "react";
 
 export default function Blog() {
-  const { t } = useTranslation('blog');
+  const { t, ready } = useTranslation('blog');
+
+  if (!ready) {
+    return
+  }
 
   return (
     <>

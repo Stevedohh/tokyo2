@@ -1,5 +1,5 @@
 import { useTranslation } from "next-i18next";
-import { useEffect } from "react";
+import React, { useEffect } from "react";
 import Head from "next/head";
 import Script from "next/script"; // Добавляем правильный импорт
 
@@ -7,7 +7,11 @@ import "owl.carousel/dist/assets/owl.carousel.css";
 import "owl.carousel/dist/assets/owl.theme.default.css";
 
 const Testimonials = () => {
-  const { t } = useTranslation('testimonials');
+  const { t, ready } = useTranslation('testimonials');
+
+  if (!ready) {
+    return
+  }
 
   useEffect(() => {
     const loadCarousel = async () => {
